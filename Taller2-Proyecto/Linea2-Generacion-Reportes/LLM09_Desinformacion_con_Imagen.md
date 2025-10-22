@@ -6,7 +6,8 @@ Vicente Neumann
 
 Esta vulnerabilidad se centra en la generación de reportes con información incorrecta pero plausible. La mitigación se basa en robustecer la calidad de los datos y el conocimiento del modelo, además de implementar una validación humana rigurosa.
 
-![Imagen explicativa simple](Gemini_Generated_Image_z3uylfz3uylfz3uy.png)
+<img width="1024" height="1024" alt="Gemini_Generated_Image_z3uylfz3uylfz3uy" src="https://github.com/user-attachments/assets/1371795f-8779-4c77-b8f5-e6ce908c408d" />
+
 
 ## **Contexto**
 
